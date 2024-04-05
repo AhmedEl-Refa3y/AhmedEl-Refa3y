@@ -27,18 +27,14 @@ Here are some ideas to get you started:
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ahmedza76141863">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://github.com/kettasoft/kettasoft/blob/main/twitter-svgrepo-com.svg"/>
-  </a>
+<a href="https://twitter.com/ahmedza76141863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedza76141863" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/ahmed-elrefa3y-156688261" alt="Linkedin" title="My linkedin profile">
-    <img width="32px" src="https://github.com/kettasoft/kettasoft/blob/main/linkedin-svgrepo-com.svg"/>
-  </a>
+<a href="https://linkedin.com/in/ahmed-elrefa3y-156688261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elrefa3y-156688261" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/احمد الرفاعي">
-    <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/kettasoft/kettasoft/blob/main/facebook-svgrepo-com.svg">
-  </a>
+<a href="https://fb.com/احمد الرفاعي" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="احمد الرفاعي" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/_ahmedelrefa3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahmedelrefa3y" height="30" width="40" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -50,4 +46,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
 </p>
+
+
+
 
