@@ -84,12 +84,12 @@
 ### 🏆 Highlights
 - **Open Source Contributor:** Actively contributing to the developer community by sharing solutions and knowledge.
 - **Team Collaborator:** Adept at working in agile environments and collaborating with cross-functional teams.
-- **Continuous Growth:** Passionate about learning emerging technologies like **Next.js**, **TypeScript**, and **Web3**.
+<!-- - **Continuous Growth:** Passionate about learning emerging technologies like **Next.js**, **TypeScript**, and **Web3**.-->
 
 ---
 
 ### 📫 Contact
-Feel free to reach out via my **[LinkedIn](https://linkedin.com/in/ahmed-elrefa3y-156688261)** or email me at **zekoahmed812@example.com**. I'm open to collaborations, job opportunities, or just a friendly chat!
+Feel free to reach out via my **[LinkedIn](https://linkedin.com/in/ahmed-elrefa3y-156688261)** or email me at **zekoahmed812@gmail.com**. I'm open to collaborations, job opportunities, or just a friendly chat!
 
 ---
 
