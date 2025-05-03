@@ -83,8 +83,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEl-Refa3y&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" style="max-width: 100%; width: 500px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-Refa3y&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 500px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEl-Refa3y&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" style="max-width: 100%; width: 450px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-Refa3y&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 450px; height: 200px;" />
 </div>
 
 
